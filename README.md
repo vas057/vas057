@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Varshaa, a second year Software Engineering student at the University of Waterloo! 
+I'm Varshaa, a fourth year Software Engineering student at the University of Waterloo! 
 
 From my childhood devotion to reading fantasy novels, to my love for music, to my passion for crocheting, I've always had a thing for creativity. As an aspiring software engineer I hope to pair my creativity with my passion for graphic design and web development.
 
